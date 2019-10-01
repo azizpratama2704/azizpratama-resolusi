@@ -1,0 +1,16 @@
+NAMA     = CHOIRUL AZIZ PRATAMA
+TGL LAHIR= 27 APRIL 2002
+ASAL KOTA= PONOROGO
+KECAMATAN= BABADAN 
+DESA     = LEMBAH
+DUKUH    = JAJAR RT/5 RW/2
+
+# Kamu tak akan bisa hidup sendiri. Butuh bantuan orang lain. Pastikan bahwa mereka adalah orang yg dapat kamu andalkan.
+# Kesalahan hanya membuatmu dewasa. Senyuman mampu meringankan luka. Sahabat akan selalu ada di saat kamu membutuhkannya.
+# Hal mudah akan terasa sulit jika yg pertama diipikirkan adalah kata SULIT. Yakinlah bahwa kita memiliki kemampuan dan kekuatan. 
+# Sukses tak akan datang bagi mereka yg hanya menunggu tak berbuat apa-apa, tapi bagi mereka yg selalu berusaha wujudkan mimpinya
+# Hindari Logo Pada Pakaian, karena kalian akan terlihat seperti billboard berjalan.
+# Ketika keadaan mengharuskan untuk menangis, tak usah berpura, menangislah. Tak semua air mata berarti lemah.
+# 
+         Debugging itu adalah sebuah metode yang dilakukan oleh para programmer untuk mencari jarum di tumpukan jerami.
+#
